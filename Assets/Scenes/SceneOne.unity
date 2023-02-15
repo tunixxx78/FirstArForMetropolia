@@ -388,7 +388,7 @@ MonoBehaviour:
   objectToPlace: {fileID: 3090857157171916398, guid: 8c22a79f53f664f158e3ad87f35ac314,
     type: 3}
   raycastManager: {fileID: 388525033}
-  useCursor: 1
+  useCursor: 0
 --- !u!4 &630908466
 Transform:
   m_ObjectHideFlags: 0
